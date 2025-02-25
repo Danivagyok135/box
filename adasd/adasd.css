@@ -1,0 +1,31 @@
+body{
+ font-family: Arial, sans-serif;
+ background-color: #5e5555;
+ margin: 0;
+ padding: 0;
+ text-align: center;
+}
+.container{
+    background: white;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    box-shadow: 0px 0px 10px gray;
+}
+nav{
+    background: #333;
+    padding: 10px;
+}
+nav a{
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+h3{
+    text-align:left;
+    margin: 20px;
+}
+p{
+    text-align: justify;
+}
